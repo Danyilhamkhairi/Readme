@@ -1,8 +1,9 @@
 # Dany Ilham Khairi
 
 <div align="center">
-  <img src="https://i.imgur.com/VELRxXx.gif" alt="Coding Animation" width="280"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE0NjZmYjYzMWJkOTk4ZDRlZDFhODAzNDViZGE2NTUyM2VlNDFmZiZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Gif" width="200"/>
 </div>
+
 
 ## 👨‍💻 Tentang Saya
 Saya adalah pengembang full-stack yang berdedikasi untuk membangun solusi inovatif dengan teknologi modern. Saya bekerja di berbagai platform web, mobile, dan cloud, selalu bersemangat untuk belajar dan berkembang.
